@@ -52,4 +52,6 @@
 - I strive to explain complex concepts in simple and understandable words, making them accessible to a wide audience.
 - I am interested in the process of researching the latest technologies, both from the software side and from the hardware side
 
-- [Website](https://knyazevmi.online)
+- [Website][def]
+
+[def]: https://knyazevmi.ru
